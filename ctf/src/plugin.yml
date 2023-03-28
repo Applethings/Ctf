@@ -1,0 +1,5 @@
+main: ga.pmc.ctf.Start
+version: 1.0
+name: Ctf
+commands:
+  ctf:
